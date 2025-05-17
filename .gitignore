@@ -37,13 +37,13 @@ wwwroot/
 *.bak
 
 # Angular
-ChatApp.Client/node_modules/
-ChatApp.Client/dist/
-ChatApp.Client/.angular/
-ChatApp.Client/.output/
-ChatApp.Client/.vscode/
-ChatApp.Client/tmp/
-ChatApp.Client/.env
+# ChatApp.Client/node_modules/
+# ChatApp.Client/dist/
+# ChatApp.Client/.angular/
+# ChatApp.Client/.output/
+# ChatApp.Client/.vscode/
+# ChatApp.Client/tmp/
+# ChatApp.Client/.env
 
 # System files
 .DS_Store
