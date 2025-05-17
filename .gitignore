@@ -36,6 +36,7 @@ wwwroot/
 *.tmp
 *.bak
 
+!ChatApp.Client/
 # Angular
 # ChatApp.Client/node_modules/
 # ChatApp.Client/dist/
